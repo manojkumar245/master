@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41047" started-at="2020-02-19T18:05:46Z" finished-at="2020-02-19T18:06:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41047" started-at="2020-02-19T18:05:46Z" finished-at="2020-02-19T18:06:27Z">
+      <class name="com.skillsgen.testcases.SkillsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.skillsgen.testcases.SkillsPageTest@4501b7af]" name="setUp" is-config="true" duration-ms="35224" started-at="2020-02-19T18:05:46Z" finished-at="2020-02-19T18:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEditSkillsTest()[pri:0, instance:com.skillsgen.testcases.SkillsPageTest@4501b7af]" name="verifyEditSkillsTest" duration-ms="5694" started-at="2020-02-19T18:06:21Z" finished-at="2020-02-19T18:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditSkillsTest -->
+      </class> <!-- com.skillsgen.testcases.SkillsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
